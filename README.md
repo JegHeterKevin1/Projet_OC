@@ -1,6 +1,6 @@
 # Connected Garden Project
 
-This project was developed as part of our 4th year of engineering studies in **electronics and embedded systems**. The project was carried out by a team of two members: myself and [@Joliaus](https://github.com/Joliaus). The system leverages the **NRF52 microcontroller** and various sensors to create a **connected garden** solution with PWM control, environmental sensing, and mist generation.
+This project was developed as part of our 4th year of engineering studies in **electronics and embedded systems**. The project was carried out by a team of two members:  [@JegHeterKevin1](https://github.com/JegHeterKevin1).  and [@Joliaus](https://github.com/Joliaus). The system leverages the **NRF52 microcontroller** and various sensors to create a **connected garden** solution with PWM control, environmental sensing, and mist generation.
 
 ## Project Overview
 
@@ -55,8 +55,8 @@ The goal of this project was to design and implement a connected garden system u
 
 ## Contributions
 
-- **@Joliaus**: Focused on hardware integration, sensor configuration, and system design.
-- **Myself**: Implemented software development for GPIO, I2C communication, PWM control, and project documentation.
+- ** [@Joliaus](https://github.com/Joliaus).**: Focused on hardware integration, sensor configuration, and system design.
+- ** [@JegHeterKevin](https://github.com/JegHeterKevin1).**: Implemented software development for GPIO, I2C communication, PWM control, and project documentation.
 
 ## Future Work
 
