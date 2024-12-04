@@ -65,6 +65,7 @@ To request access, please contact me at:
 
 📧 **Kévin Pottier**    
 GitHub: [https://github.com/JegHeterKevin1](https://github.com/JegHeterKevin1)
+Email : kevin.pottier@reseau.eseo.fr
 
 📧 **Johann Raineteau**    
 GitHub: [https://github.com/joliaus](https://github.com/joliaus)
