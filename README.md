@@ -57,6 +57,17 @@ The goal of this project was to design and implement a connected garden system u
 - Add wireless connectivity for remote monitoring and control.
 - Optimize power consumption for longer operation.
 
+## Access to PCB Design and Additional Documents
+
+The PCB design files and other related documents for this project are available **free of charge** upon request.  
+
+To request access, please contact me at:  
+
+📧 **Kévin Pottier**    
+GitHub: [https://github.com/JegHeterKevin1](https://github.com/JegHeterKevin1)
+📧 **Johann Raineteau**
+GitHub: [https://github.com/Joliaus](https://github.com/Joliaus)
+
 ## License
 
 This project is licensed under a **permissive license**. You are free to use, modify, distribute, and build upon this project in any way you see fit, for any purpose.
