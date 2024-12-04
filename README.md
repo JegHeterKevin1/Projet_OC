@@ -48,8 +48,8 @@ The goal of this project was to design and implement a connected garden system u
 
 ## Contributions
 
-- ** [@Joliaus](https://github.com/Joliaus).**: Focused on hardware integration, sensor configuration, and system design.
-- ** [@JegHeterKevin](https://github.com/JegHeterKevin1).**: Implemented software development for GPIO, I2C communication, PWM control, and project documentation.
+- **[@Joliaus](https://github.com/Joliaus).**: Focused on hardware integration, sensor configuration, and system design.
+- **[@JegHeterKevin](https://github.com/JegHeterKevin1).**: Implemented software development for GPIO, I2C communication, PWM control, and project documentation.
 
 ## Future Work
 
@@ -66,9 +66,8 @@ To request access, please contact me at:
 📧 **Kévin Pottier**    
 GitHub: [https://github.com/JegHeterKevin1](https://github.com/JegHeterKevin1)
 
-📧 **Johann Raineteau**
-
-GitHub: [https://github.com/Joliaus](https://github.com/Joliaus)
+📧 **Johann Raineteau**    
+GitHub: [https://github.com/joliaus](https://github.com/joliaus)
 
 ## License
 
