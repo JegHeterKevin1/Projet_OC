@@ -21,13 +21,6 @@ The goal of this project was to design and implement a connected garden system u
   - Additional sensors (optional based on project configuration)
 - **Brumisateur (Mist Maker)**: Controlled via GPIO for on/off states
 
-## Project Structure
-
-```
-/src
-  - main.c           # Main source code for project logic
-```
-
 ## Getting Started
 
 ### Prerequisites
@@ -42,7 +35,7 @@ The goal of this project was to design and implement a connected garden system u
 
    ```bash
    git clone https://github.com/JegHeterKevin1/Projet_OC.git
-   cd connected-garden
+   cd Projet_OC
    ```
 
 2. Build and flash the code onto the NRF52 microcontroller using Nordic's development tools.
