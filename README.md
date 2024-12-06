@@ -1,6 +1,6 @@
 # Connected Garden Project
 
-This project was developed as part of our 4th year of engineering studies in **electronics and embedded systems**. The project was carried out by a team of two members:  [@JegHeterKevin1](https://github.com/JegHeterKevin1).  and [@Joliaus](https://github.com/Joliaus). The system leverages the **NRF52 microcontroller** and various sensors to create a **connected garden** solution with PWM control, environmental sensing, and mist generation.
+This project was developed as part of our 4th year of engineering studies in **electronics and embedded systems**. The project was carried out by a team of two members:  [@Kevin-Pottier](https://github.com/Kevin-Pottier).  and [@Joliaus](https://github.com/Joliaus). The system leverages the **NRF52 microcontroller** and various sensors to create a **connected garden** solution with PWM control, environmental sensing, and mist generation.
 
 ## Project Overview
 
@@ -49,7 +49,7 @@ The goal of this project was to design and implement a connected garden system u
 ## Contributions
 
 - **[@Joliaus](https://github.com/Joliaus).**: Focused on hardware integration, sensor configuration, and system design.
-- **[@JegHeterKevin](https://github.com/JegHeterKevin1).**: Implemented software development for GPIO, I2C communication, PWM control, and project documentation.
+- **[@Kevin-Pottier](https://github.com/Kevin-Pottier).**: Implemented software development for GPIO, I2C communication, PWM control, and project documentation.
 
 ## Future Work
 
@@ -64,7 +64,7 @@ The PCB design files and other related documents for this project are available 
 To request access, please contact me at:  
 
 📧 **Kévin Pottier**    
-GitHub: [https://github.com/JegHeterKevin1](https://github.com/JegHeterKevin1)
+GitHub: [https://github.com/Kevin-Pottier](https://github.com/Kevin-Pottier)
 Email : kevin.pottier@reseau.eseo.fr
 
 📧 **Johann Raineteau**    
