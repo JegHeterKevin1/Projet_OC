@@ -34,7 +34,7 @@ The goal of this project was to design and implement a connected garden system u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JegHeterKevin1/Projet_OC.git
+   git clone https://github.com/Kevin-Pottier/Projet_OC.git
    cd Projet_OC
    ```
 
